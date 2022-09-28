@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "apellido": "arias",
+      "nombre": "vanessa",
+      "username": "varias",
+      "password": "12345"
+
+    },
+    {
+      "id": 2,
+      "apellido": "castiblanco",
+      "nombre": "johan",
+      "username": "ccastiblanco",
+      "password": "54321"
+
+    },
+    {
+      "id": 1,
+      "apellido": "henao",
+      "nombre": "luisa",
+      "username": "lhenao",
+      "password": "13542"
+
+    }
+  ]
+}
